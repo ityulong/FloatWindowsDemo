@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FloatWindowsDemo</string>
+    <string name="show_float_windows">显示悬浮窗口!</string>
+</resources>
